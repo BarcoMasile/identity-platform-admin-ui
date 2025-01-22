@@ -1219,14 +1219,14 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@canonical/react-components@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-1.0.0.tgz#f075749e4bed7b89852959e2c4d0e3556e2a04c2"
-  integrity sha512-lcXy+TVSYR6MXSR60/wta/i+LGEK39gFyVBfsEU++nIhWnC/D5e/0DqQ7Oup1LgxdvMfm47BkCIbs7MQiAR0Rg==
+"@canonical/react-components@1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-1.9.0.tgz#9337b35e632d7419eddf51823a5243156893185e"
+  integrity sha512-CB2xHvGs/KFsCAbh79pSsJfg+j5Pxmye1qXCeAoirTWj1WIwRiDVV32R07Xys/bAafzINy6kStqJHkq8XUld/g==
   dependencies:
     "@types/jest" "29.5.12"
-    "@types/node" "20.12.11"
-    "@types/react" "18.3.1"
+    "@types/node" "20.16.3"
+    "@types/react" "18.3.5"
     "@types/react-dom" "18.3.0"
     "@types/react-table" "7.7.20"
     classnames "2.5.1"
@@ -1987,12 +1987,12 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/node@20.12.11":
-  version "20.12.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.12.11.tgz#c4ef00d3507000d17690643278a60dc55a9dc9be"
-  integrity sha512-vDg9PZ/zi+Nqp6boSOT7plNuthRugEKixDv5sFTIpkE89MmNtEArAShI4mxuX2+UrLEe9pxC1vm2cjm9YlWbJw==
+"@types/node@20.16.3":
+  version "20.16.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.16.3.tgz#7b4f9a37091cf03a0c2561bf76a9a55f03f4f523"
+  integrity sha512-/wdGiWRkMOm53gAsSyFMXFZHbVg7C6CbkrzHNpaHoYfsUWPg7m6ZRKtvQjgvQ9i8WT540a3ydRlRQbxjY30XxQ==
   dependencies:
-    undici-types "~5.26.4"
+    undici-types "~6.19.2"
 
 "@types/prop-types@*":
   version "15.7.9"
@@ -2055,10 +2055,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/react@18.3.1":
-  version "18.3.1"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.3.1.tgz#fed43985caa834a2084d002e4771e15dfcbdbe8e"
-  integrity sha512-V0kuGBX3+prX+DQ/7r2qsv1NsdfnCLnTgnRJ1pYnxykBhGMz+qj+box5lq7XsO5mtZsBqpjwwTu/7wszPfMBcw==
+"@types/react@18.3.5":
+  version "18.3.5"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.3.5.tgz#5f524c2ad2089c0ff372bbdabc77ca2c4dbadf8f"
+  integrity sha512-WeqMfGJLGuLCqHGYRGHxnKrXcTitc6L/nBUWfWPcTarG3t9PsquqUMuVeXZeca+mglY4Vo5GZjCi0A3Or2lnxA==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
@@ -7254,6 +7254,11 @@ undici-types@~5.26.4:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
+undici-types@~6.19.2:
+  version "6.19.8"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.19.8.tgz#35111c9d1437ab83a7cdc0abae2f26d88eda0a02"
+  integrity sha512-ve2KP6f/JnbPBFyobGHuerC9g1FYGn/F8n1LWTwNxCEzd6IfqTwUQcNXgEtmmQ6DlRrC1hrSrBnCZPokRrDHjw==
+
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/unicode-canonical-property-names-ecmascript/-/unicode-canonical-property-names-ecmascript-2.0.0.tgz#301acdc525631670d39f6146e0e77ff6bbdebddc"
@@ -7333,10 +7338,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vanilla-framework@4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.9.1.tgz#98b33337d013d1e4b64e4aba58defdae68431d13"
-  integrity sha512-nY/wzAF1obHTH6pePo9OLslnyOsybiCnyHbr6JkfWHlahsukaA/Wj78yz9VEw1yuPDZzzTfxzXK3Eu771N+fCA==
+vanilla-framework@4.20.0:
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.20.0.tgz#017362c0814a69f4759842c8f35d4ee9e9f5ad83"
+  integrity sha512-XCaLzqlo8Qd/awGD5sNG/1c4LfcaGLCgCZfVPRWyxQIVZRVQrY+Tk335Juz7u/DqUMuULt800oy0sOIVyqABWA==
 
 vary@~1.1.2:
   version "1.1.2"
