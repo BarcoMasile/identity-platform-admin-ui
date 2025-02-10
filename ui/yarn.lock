@@ -1106,10 +1106,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@canonical/react-components@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-2.0.0.tgz#33f6f5e425e5966525ea4ac2120567cf329f6f6b"
-  integrity sha512-scmMyOcJ3Le2EPLu/rQE1j7WHLxXUH7X84zrmkTjaWu0qAKbdgOdGQfvr0ASswjaLKNpUVoinrn/LA2nPF/t+A==
+"@canonical/react-components@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-2.1.0.tgz#439d5ca03b009b0c0ad72c8bb5170857bbecce86"
+  integrity sha512-OaZcQmwoXj25kCvOxYhaJQhUc4CX8t5pVbuqb+t2ELfREVRvlTnKAxMHeuAyihK81FQ712M8ziiKfybp2mNZYg==
   dependencies:
     "@types/jest" "29.5.14"
     "@types/node" "20.17.13"
@@ -1121,7 +1121,6 @@
     lodash.isequal "4.5.0"
     prop-types "15.8.1"
     react-table "7.8.0"
-    react-useportal "1.0.19"
 
 "@canonical/rebac-admin-admin-ui@0.0.1":
   version "0.0.1"
@@ -7984,10 +7983,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vanilla-framework@4.20.3:
-  version "4.20.3"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.20.3.tgz#a306e80f32f5c6b6f107c02e64cc642c6eb32148"
-  integrity sha512-8nE8BxHRckdjo8VYW0jVLK9JMz1XAoTZcKGweg0jM8cV+/D313pPyomEeODAD1qq66yf/W0RfHTXv/wp0AaYfQ==
+vanilla-framework@4.21.0:
+  version "4.21.0"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.21.0.tgz#745e6d4cff71b9d2a976540fc8041478d43127ae"
+  integrity sha512-/qQu0J5L17Oumpd9AD+kqEYgkBm/JjOJNO3ArObnw9Hx9Dk1Vt3dIasYEo9IR6QFAMU64daOXqbFB+Dz8fZmxw==
 
 vary@~1.1.2:
   version "1.1.2"
