@@ -1132,10 +1132,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@canonical/react-components@2.15.0":
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-2.15.0.tgz#5c0627fb9300b03b65c0fa987accfccb621b08d4"
-  integrity sha512-hBdahhAJ0cg6j0Bz2UXbGeCEwKLmI8MvkLG2FtpB3guAEa9zDUnrIJSgfgYswvz72PIhT5PoFFkXU3uKrXc+BQ==
+"@canonical/react-components@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-2.16.1.tgz#4c814dd6b64549a4ccda94eb0df5d0ba0d35b41b"
+  integrity sha512-8qoTl/4cci8JzDX+XJXP0/dHJQXhY0skQDYX5jynFXS9lUnjdgAlVehiulghFRZWGXUKrinRqwVYIXR88xEZww==
   dependencies:
     "@types/jest" "29.5.14"
     "@types/node" "20.17.19"
@@ -8082,10 +8082,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vanilla-framework@4.29.0:
-  version "4.29.0"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.29.0.tgz#710ee48901d49f1df41abe51cd472a47754a6e07"
-  integrity sha512-406WW2C1hkmW187R43YW/jIyYRylUVK9qcV95NEzj8tSzX+iWoCR6KF61v6nHOIggNRHNs+FaqlDSlartWfE3g==
+vanilla-framework@4.30.0:
+  version "4.30.0"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.30.0.tgz#165195e32cbfee1506eccb6d550bf1241304a971"
+  integrity sha512-76bFHDNcmRboRD01RcM0CEDcU+gDd8rCMJe2SFF9MJcVeRG/5nla5nBBgT+30dc/ASQOrs3Fiz5kmAT/AQlhFw==
 
 vary@~1.1.2:
   version "1.1.2"
