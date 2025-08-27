@@ -8082,10 +8082,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vanilla-framework@4.30.0:
-  version "4.30.0"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.30.0.tgz#165195e32cbfee1506eccb6d550bf1241304a971"
-  integrity sha512-76bFHDNcmRboRD01RcM0CEDcU+gDd8rCMJe2SFF9MJcVeRG/5nla5nBBgT+30dc/ASQOrs3Fiz5kmAT/AQlhFw==
+vanilla-framework@4.31.0:
+  version "4.31.0"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.31.0.tgz#b0685c6f44061d37a3c5092f64262e511f351ccb"
+  integrity sha512-4IIw1W8+LAIcCms8jU04PM7Cpqounlvyos2FxzZgGOo2lh3pQ+D2GdLx38hcn+XZspuoH87/W8sSIvJrgpzPBQ==
 
 vary@~1.1.2:
   version "1.1.2"
