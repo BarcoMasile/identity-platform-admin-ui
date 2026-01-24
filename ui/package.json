@@ -45,7 +45,7 @@
     "@faker-js/faker": "9.8.0",
     "@testing-library/dom": "10.4.1",
     "@testing-library/jest-dom": "6.6.4",
-    "@testing-library/react": "16.3.1",
+    "@testing-library/react": "16.3.2",
     "@testing-library/user-event": "14.6.1",
     "@types/react": "18.3.27",
     "@types/react-dom": "18.3.7",
