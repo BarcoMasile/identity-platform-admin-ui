@@ -1132,10 +1132,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@canonical/react-components@3.8.0":
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-3.8.0.tgz#765d8ff48de48cee21eada62ba8dc4169fff6149"
-  integrity sha512-V+idJFKmzaFi/wjJg0ltHf7JrKpvB4LaZaCQ/3HX4xdHzvnA5KWtgc6NBDXAZexG2uAhGvktCNtGTaABYVxfbw==
+"@canonical/react-components@3.8.3":
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/@canonical/react-components/-/react-components-3.8.3.tgz#1de89bd611dfce7c8b54e617d197b7cc560aaa6d"
+  integrity sha512-J6EHghZYST7+17108Z/V9CYUhtSYkVQuKbBvjaFWvjfWsAHeyQGANbdAI7brsrZUKxhvgbpgwNIepdHusIB81A==
   dependencies:
     "@types/jest" "29.5.14"
     "@types/node" "20.17.19"
@@ -1148,17 +1148,16 @@
     prop-types "15.8.1"
     react-table "7.8.0"
 
-"@canonical/rebac-admin-admin-ui@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@canonical/rebac-admin-admin-ui/-/rebac-admin-admin-ui-0.0.1.tgz#ecdd63c54e9e4bd8c84c1977f0eef6ff2c69742b"
-  integrity sha512-REd1/4ThS+F1VunQsnjdbaAcQEqjCJzrHe+N2VlExn6sR0moTAoVZK6IgrdKODD/sHZmJYdZXN/NWEhJmvh/YA==
+"@canonical/rebac-admin-admin-ui@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@canonical/rebac-admin-admin-ui/-/rebac-admin-admin-ui-0.0.3.tgz#e9d38effb53b04ccb7f1b6ce974d063bf6a7ec31"
+  integrity sha512-c/FS8WLbCkaVR1tH4kU/21eMZfFgHBLlmQ4ygaQ4N0HnmbJH/Aasix44JRGNIfyDVEwIwYkizi7daM+NHzw46w==
   dependencies:
     async-limiter "2.0.0"
     classnames "2.5.1"
     clone-deep "4.0.1"
     process "0.11.10"
-    react-hot-toast "2.4.1"
-    react-useportal "1.0.19"
+    react-hot-toast "2.5.1"
 
 "@csstools/css-parser-algorithms@^3.0.5":
   version "3.0.5"
@@ -3330,7 +3329,7 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.2.tgz#1d4bf9d572f11c14031f0436e1c10bc1f571f50b"
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
 
-csstype@^3.2.2:
+csstype@^3.1.3, csstype@^3.2.2:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.2.3.tgz#ec48c0f3e993e50648c86da559e2610995cf989a"
   integrity sha512-z1HGKcYy2xA8AGQfwrn0PAy+PB7X/GSj3UVJW9qKyn43xWa+gl5nXmU4qqLMRzWVLFC8KusUX8T/0kCiOYpAIQ==
@@ -4698,10 +4697,10 @@ globrex@^0.1.2:
   resolved "https://registry.yarnpkg.com/globrex/-/globrex-0.1.2.tgz#dd5d9ec826232730cd6793a5e33a9302985e6098"
   integrity sha512-uHJgbwAMwNFf5mLst7IWLNg14x1CkeqglJb/K3doi4dw6q2IvAAmM/Y81kevy83wP+Sst+nutFTYOGg3d1lsxg==
 
-goober@^2.1.10:
-  version "2.1.14"
-  resolved "https://registry.yarnpkg.com/goober/-/goober-2.1.14.tgz#4a5c94fc34dc086a8e6035360ae1800005135acd"
-  integrity sha512-4UpC0NdGyAFqLNPnhCT2iHpza2q+RAY3GV85a/mRPdzyPQMsj0KmMMuetdIkzWRbJ+Hgau1EZztq8ImmiMGhsg==
+goober@^2.1.16:
+  version "2.1.18"
+  resolved "https://registry.yarnpkg.com/goober/-/goober-2.1.18.tgz#b72d669bd24d552d441638eee26dfd5716ea6442"
+  integrity sha512-2vFqsaDVIT9Gz7N6kAL++pLpp41l3PfDuusHcjnGLfR6+huZkl6ziX+zgVC3ZxpqWhzH6pyDdGrCeDhMIvwaxw==
 
 gopd@^1.0.1:
   version "1.0.1"
@@ -6606,12 +6605,13 @@ react-fast-compare@^2.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
   integrity sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
 
-react-hot-toast@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/react-hot-toast/-/react-hot-toast-2.4.1.tgz#df04295eda8a7b12c4f968e54a61c8d36f4c0994"
-  integrity sha512-j8z+cQbWIM5LY37pR6uZR6D4LfseplqnuAO4co4u8917hBUvXlEqyP1ZzqVLcqoyUesZZv/ImreoCeHVDpE5pQ==
+react-hot-toast@2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/react-hot-toast/-/react-hot-toast-2.5.1.tgz#fcb182d96353c803ee5af82e96c806d5eaa4dcfa"
+  integrity sha512-54Gq1ZD1JbmAb4psp9bvFHjS7lje+8ubboUmvKZkCsQBLH6AOpZ9JemfRvIdHcfb9AZXRaFLrb3qUobGYDJhFQ==
   dependencies:
-    goober "^2.1.10"
+    csstype "^3.1.3"
+    goober "^2.1.16"
 
 react-is@^16.13.1, react-is@^16.7.0:
   version "16.13.1"
