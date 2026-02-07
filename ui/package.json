@@ -22,7 +22,7 @@
     "proxy-serve": "./entrypoint"
   },
   "dependencies": {
-    "@canonical/react-components": "3.8.0",
+    "@canonical/react-components": "3.9.0",
     "@canonical/rebac-admin-admin-ui": "0.0.1",
     "@tanstack/react-query": "^5.28.6",
     "@use-it/event-listener": "0.1.7",
@@ -33,7 +33,7 @@
     "react-router-dom": "6.30.3",
     "react-useportal": "1.0.19",
     "serve": "14.2.5",
-    "vanilla-framework": "4.39.0",
+    "vanilla-framework": "4.44.0",
     "yup": "1.6.1"
   },
   "devDependencies": {
